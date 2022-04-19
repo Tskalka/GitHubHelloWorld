@@ -1,0 +1,16 @@
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\bin\Debug\net5.0\GitHubHelloWorld.exe
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\bin\Debug\net5.0\GitHubHelloWorld.deps.json
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\bin\Debug\net5.0\GitHubHelloWorld.runtimeconfig.json
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\bin\Debug\net5.0\GitHubHelloWorld.runtimeconfig.dev.json
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\bin\Debug\net5.0\GitHubHelloWorld.dll
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\bin\Debug\net5.0\ref\GitHubHelloWorld.dll
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\bin\Debug\net5.0\GitHubHelloWorld.pdb
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\obj\Debug\net5.0\GitHubHelloWorld.csproj.AssemblyReference.cache
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\obj\Debug\net5.0\GitHubHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\obj\Debug\net5.0\GitHubHelloWorld.AssemblyInfoInputs.cache
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\obj\Debug\net5.0\GitHubHelloWorld.AssemblyInfo.cs
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\obj\Debug\net5.0\GitHubHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\obj\Debug\net5.0\GitHubHelloWorld.dll
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\obj\Debug\net5.0\ref\GitHubHelloWorld.dll
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\obj\Debug\net5.0\GitHubHelloWorld.pdb
+C:\Users\tyler\OneDrive\Desktop\CSE310Software\GitHubHelloWorld\obj\Debug\net5.0\GitHubHelloWorld.genruntimeconfig.cache
