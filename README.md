@@ -2,7 +2,7 @@
 
 This is a simple Hello World program that will output "Hello World".
 
-The purpose of creating this software was to practice integrating Visual Studio Code with git and git hub. 
+The purpose of creating this software was to practice integrating Visual Studio Code with Git and Git hub. 
 
 
 [Software Demo Video](http://youtube.link.goes.here)
