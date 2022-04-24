@@ -1,23 +1,14 @@
 # GitHubHelloWorld
 
-{Important! Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a simple Hello World program that will output "Hello World" to the terminal.
 
-{Provide a description of your software}
+The purpose of creating this software was to practice integrating Visual Studio Code with git and git hub. 
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual Studio Code to devlop this software in C#.
 
-{Describe the programming language that you used}
 
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
