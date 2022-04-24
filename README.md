@@ -14,3 +14,8 @@ The purpose of creating this software was to practice integrating Visual Studio 
 * Git/Github
 
 
+# Useful Websites
+* [C# Language Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
+* [Github in VS Code](https://code.visualstudio.com/docs/editor/github)
+
+
