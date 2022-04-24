@@ -1,6 +1,6 @@
 # GitHubHelloWorld
 
-This is a simple Hello World program that will output "Hello World" to the terminal.
+This is a simple Hello World program that will output "Hello World".
 
 The purpose of creating this software was to practice integrating Visual Studio Code with git and git hub. 
 
@@ -9,6 +9,8 @@ The purpose of creating this software was to practice integrating Visual Studio 
 
 # Development Environment
 
-I used Visual Studio Code to devlop this software in C#.
+* Visual Studio Code
+* .Net Core/C#
+* Git/Github
 
 
